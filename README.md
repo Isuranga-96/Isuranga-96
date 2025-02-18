@@ -1,7 +1,13 @@
-# ISURANGA-SERAM
+<h1 align="center">
+  ISURANGA-SERAM
+</h1>
 
-Hi There Welcome! 👋 
+<h3 align="center">Hi There Welcome! 👋
+<br/><br/>
 I'm a passionate Full-Stack-Developer who loves learning new things and contributing to marvalous projects. Feel free to explore my works and projects and give your opinions.
+</h3>
+<br/><br/>
+
 
 ## 🧑🏻‍💻 About Me
 - 🧑🏻‍🎓 I’m currently learning: Programming, Data-Base-Management-Systems, Networking, Front-End & Back-End app developing
