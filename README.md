@@ -32,6 +32,6 @@ Explore the technologies and tools I work with:
   
 ## 📂 Some of My Projects
 
-- [Sample-Web-Browser](https://github.com/yourusername/project1) - description of the project.
+- Below are the some of projects that I've contributed with.
 
 Thanks for stopping by! 😄
